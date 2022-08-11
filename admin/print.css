@@ -1,0 +1,21 @@
+@page{
+    size: auto;
+    position: relative;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+    
+    
+}
+#print-btn {
+    display: none;
+    visibility: none;
+
+}
+#back{
+    display: none;
+    visibility: none;
+    border: none;
+}
